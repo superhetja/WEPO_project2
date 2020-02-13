@@ -1,0 +1,3 @@
+window.drawio = {
+    shapes = []
+}
